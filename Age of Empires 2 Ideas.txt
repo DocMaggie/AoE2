@@ -1,4 +1,4 @@
-1) Things that NEED change, because it's crucial to gameplay and fairness:
+1) Things that NEED change, because they're crucial to gameplay and fairness:
 
 
 1.1) Bombard Towers need to inflict melee damage instead of piercing. The former specialty of Bombard Towers was (besides being fairly strong, but also being above average in inaccuracy)
