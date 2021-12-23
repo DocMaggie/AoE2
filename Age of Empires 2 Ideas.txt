@@ -33,6 +33,13 @@ least by +3 in the Castle Age, considering that we already have heavy cavalry an
 1.9) Xolotl Warriors are extremely rare and hard to come by, but they have the same cost as a Knight, also suffering from no possible upgrades. We have to reward the player somehow for
 being able to produce them, either by reducing their cost, or by giving them a good bonus against a certain type of units, for instance, infantry and/or archers.
 
+1.10) Attack wavepoint is broken, and it worked before. This is also a very important missing element.
+
+1.11) Gates should be locked by default when built instead of unlocked, because villagers oftentimes open the gates by accident, granting the opponent free entry.
+
+1.12) 4K resolutions provide extremely small in-game mouse cursors, which are, at times, difficult to see. We need to add an option to increase/decrease the size of the in-game mouse
+cursor.
+
 
 
 
