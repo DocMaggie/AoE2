@@ -58,6 +58,9 @@ Siege Tower mobility factor.
 
 2.3) When Loom is researched, all male Villagers get a beige leather shirt, similar to Villager role players at Red Bull's Wololo 5 event, just to make this tech more visual.
 
+2.4) In order for Blacksmith upgrades to have effect, the player must have at least one Blacksmith standing. If he loses all of his Blacksmiths, the attack and armor upgrades no longer
+have an effect (as if no Blacksmith upgrades are researched). As soon as the player rebuilds at least one Blacksmith, the researched attack and armor upgrades have effect again.
+
 
 
 
