@@ -35,7 +35,7 @@ being able to produce them, either by reducing their cost, or by giving them a g
 
 1.10) Attack wavepoint is broken, and it worked before. This is also a very important missing element.
 
-1.11) Gates should be locked by default when built instead of unlocked, because villagers oftentimes open the gates by accident, granting the opponent free entry.
+1.11) Gates should be locked by default when built instead of unlocked, because Villagers oftentimes open the gates by accident, granting the opponent free entry.
 
 1.12) 4K resolutions provide extremely small in-game mouse cursors, which are, at times, difficult to see. We need to add an option to increase/decrease the size of the in-game mouse
 cursor.
