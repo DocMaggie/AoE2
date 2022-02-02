@@ -97,6 +97,8 @@ chance of male/female Villager creation to be fairly equal)
 
 3.14) Trade Cogs can trade with your own Docks, as long as the two docks at least 50 tiles away from each other.
 
+3.15) Can garrison a single Villager in an Outpost, which grants the Outpost +4 line of sight as long as the Villager is garrisoned.
+
 
 
 
@@ -129,3 +131,13 @@ chance of male/female Villager creation to be fairly equal)
 
 5.3) Siege Engineer (50 food) - Same cost and stats as a Villager, but its movement speed is similar to Condottiero and its only ability is to repair siege weapons and ships. He
 cannot build building or collect resources.
+
+
+
+
+
+6) Unique building ideas:
+
+
+6.1) Road (1 stone) - a simple 2x2 road tile, as seen in Scenario Editor and in many campaigns, could be introduced as a "building" for city aesthetic and slightly faster
+movement speed when traversing it.
