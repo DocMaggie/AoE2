@@ -99,6 +99,8 @@ chance of male/female Villager creation to be fairly equal)
 
 3.15) Can garrison a single Villager in an Outpost, which grants the Outpost +4 line of sight as long as the Villager is garrisoned.
 
+3.16) Traversing enemy Farms with Rams rapidly reduces their food count.
+
 
 
 
@@ -110,9 +112,9 @@ chance of male/female Villager creation to be fairly equal)
 
 4.2) "Pollaxe (1000 food, 500 gold)": Halberdiers inflict bonus damage against infantry, but not as much as they do against cavalry.
 
-4.3) "Empire Borderlines (700 food, 400 gold)": You get to place one free Castle (it still has to be built like a normal Castle, but it costs no stone).
+4.3) "Empire Borderlines (700 food, 600 gold)": You get to place one free Castle (it still has to be built like a normal Castle, but it costs no stone).
 
-4.4) "Refuge (300 wood, 300 food)": All garrisonable building get +3 garrison space.
+4.4) "Refuge (300 wood, 300 food)": All garrisonable buildings get +3 garrison space.
 
 4.5) "Weighted Arrows (900 food, 400 gold)": Castles inflict +2 bonus damage per arrow to siege weapons.
 
