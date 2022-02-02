@@ -18,7 +18,7 @@ finding holes in your own walls should stay as it is, because it is, again, in v
 other, regular Palisade Walls, so you have to rotate the gate multiple times more than what you would normally have to, just because there are other walls near you. Not having the option
 to disable automatic gate rotation greatly decreases your chances in succeeding the quickwall traps.
 
-1.6) Monk conversion and Trebuchet precision RNG reduced to a minimum or taken out of the gameoverall. Age of Empires 2 is known for its skill-based outcomes and situation handlings. If
+1.6) Monk conversion and Trebuchet precision RNG reduced to a minimum or taken out of the game in general. Age of Empires 2 is known for its skill-based outcomes and situation handlings. If
 there has to be an RNG factor, then let's reduce its impact to very small intervals of conversion times (for instance, between 5 and 8 seconds instead of between 2 and 20), or a very small
 chance of a Trebuchet missing its target, even if that means decreasing the Trebuchet fire rate or increasing the Monk faith regaining charge time.
 
